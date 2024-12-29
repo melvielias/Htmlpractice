@@ -1,0 +1,15 @@
+
+.paragraph-1 {
+  color:orangered;
+  font-size: 25px;
+  border-style:double;
+  display: block;
+}
+
+.paragraph-2 {
+  color: blue;
+  border-style:dashed;
+  display: inline-block;
+  font-size: 15px;
+  
+}
